@@ -1,0 +1,8 @@
+{
+  "* * * * *": {
+    "url": [
+      "https://reqres.in/api/products/3",
+      "https://reqres.in/api/users/23"
+    ]
+  }
+}
